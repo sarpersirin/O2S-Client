@@ -1,8 +1,2 @@
-ON
-ON
-ON
-ON 
- ON 
-ON 
-ON 
-
+OFF
+DİH
